@@ -1,0 +1,55 @@
+{
+    "balance": 700.0,
+    "initial_balance": 1000.0,
+    "positions": [
+        {
+            "Symbol": "ADA/USDT:USDT",
+            "Side": "LONG",
+            "Entry Price": 0.1723,
+            "Current Price": 0.1717,
+            "Margin (USDT)": 100.0,
+            "Leverage": 10,
+            "Qty": 5803.830528148578,
+            "TP Price": 0.1748845,
+            "SL Price": 0.170577,
+            "Unrealized PnL": -3.4822983168892465,
+            "ROE %": -3.4822983168892465,
+            "Opened At": "2026-11-13 22:08:40"
+        },
+        {
+            "Symbol": "SUI/USDT:USDT",
+            "Side": "LONG",
+            "Entry Price": 0.8141,
+            "Current Price": 0.8145,
+            "Margin (USDT)": 100.0,
+            "Leverage": 10,
+            "Qty": 1228.3503255128362,
+            "TP Price": 0.8263115,
+            "SL Price": 0.8059590000000001,
+            "Unrealized PnL": 0.4913401302050804,
+            "ROE %": 0.4913401302050804,
+            "Opened At": "2026-11-13 22:10:44"
+        },
+        {
+            "Symbol": "XRP/USDT:USDT",
+            "Side": "LONG",
+            "Entry Price": 1.0274,
+            "Current Price": 1.0274,
+            "Margin (USDT)": 100.0,
+            "Leverage": 10,
+            "Qty": 973.3307377846992,
+            "TP Price": 1.042811,
+            "SL Price": 1.017126,
+            "Unrealized PnL": 0.0,
+            "ROE %": 0.0,
+            "Opened At": "2026-11-13 22:10:52"
+        }
+    ],
+    "trade_history": [],
+    "logs": [
+        "[22:10:52] 🚀 OPEN LONG XRP/USDT @ 1.0274\n⚡ เลเวอเรจ: 10x | มาร์จิ้น: $100.0",
+        "[22:10:44] 🚀 OPEN LONG SUI/USDT @ 0.8141\n⚡ เลเวอเรจ: 10x | มาร์จิ้น: $100.0",
+        "[22:08:40] 🚀 OPEN LONG ADA/USDT @ 0.1723\n⚡ เลเวอเรจ: 10x | มาร์จิ้น: $100.0",
+        "[22:06:31] 🟢 เริ่มต้นการทำงานของบอทแล้ว"
+    ]
+}
